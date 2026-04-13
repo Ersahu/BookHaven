@@ -27,7 +27,12 @@ A modern, responsive online bookstore built with pure HTML, CSS, and JavaScript.
 - **Data Persistence**: All changes saved to browser's localStorage
 
 ## 📸 Preview
-<img width="1915" height="1151" alt="Screenshot 2026-04-13 165512" src="https://github.com/user-attachments/assets/fc24e36c-6c4b-437f-8a4c-4384539d2f2f" />
+<img width="1919" height="1139" alt="Screenshot 2026-04-13 165445" src="https://github.com/user-attachments/assets/75e96dea-ed06-48bf-bad5-ba3d05edcbcb" />
+
+<img width="1918" height="1150" alt="Screenshot 2026-04-13 165456" src="https://github.com/user-attachments/assets/ba370da0-d4f0-41f8-9038-3af3e6da5268" />
+
+<img width="1915" height="1151" alt="Screenshot 2026-04-13 165512" src="https://github.com/user-attachments/assets/50c6a625-6ee0-4658-8d6b-6d46edf24909" />
+
 
 ## 🚀 Getting Started
 
