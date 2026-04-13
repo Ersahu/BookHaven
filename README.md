@@ -26,6 +26,9 @@ A modern, responsive online bookstore built with pure HTML, CSS, and JavaScript.
   - Search and filter books in admin table
 - **Data Persistence**: All changes saved to browser's localStorage
 
+## 📸 Preview
+<img width="1915" height="1151" alt="Screenshot 2026-04-13 165512" src="https://github.com/user-attachments/assets/fc24e36c-6c4b-437f-8a4c-4384539d2f2f" />
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -125,19 +128,6 @@ All data is stored in the browser's localStorage:
 - **`cart`**: Shopping cart items (UI only)
 - **`adminLoggedIn`**: Admin session flag (sessionStorage)
 
-### Book Object Structure
-```javascript
-{
-  id: 1,
-  title: "Book Title",
-  author: "Author Name",
-  price: 29.99,
-  category: "Fiction",
-  description: "Book description...",
-  image: "https://example.com/cover.jpg",
-  isbn: "978-0000000000"
-}
-```
 
 ## 🎨 Design Features
 
@@ -165,24 +155,6 @@ All data is stored in the browser's localStorage:
 4. Fill in all required fields
 5. Click "Save Book"
 
-### Changing the Theme
-Edit CSS variables in `css/style.css`:
-```css
-:root {
-    --primary-color: #2c3e50;
-    --secondary-color: #3498db;
-    --accent-color: #e74c3c;
-    /* ... more variables */
-}
-```
-
-### Resetting Sample Data
-Clear your browser's localStorage and reload the page:
-```javascript
-// In browser console:
-localStorage.clear();
-location.reload();
-```
 
 ## 🔒 Security Notes
 
@@ -206,26 +178,24 @@ location.reload();
 
 **Admin login not working?**
 - Password is case-sensitive: `admin123`
-- Clear sessionStorage and try again
+- Clear the sessionStorage and try again
 
 **Changes not persisting?**
 - Ensure localStorage is enabled in your browser
 - Check if you're in private/incognito mode (limits storage)
 
-## 📄 License
+## 🤝 Contributions
+We welcome pull requests! For major changes, please open an issue to discuss what you'd like to improve or add.
 
-This project is open source and available for educational purposes.
+## 📧 Contact
+**Developer**: Vaibhav
 
-## 🤝 Contributing
+**Email**: sahuvaibhav064@gmail.com
 
-Feel free to fork this project and submit pull requests for improvements!
+**LinkedIn**: https://www.linkedin.com/in/vaibhav-chaudhary-615712272/
 
-## 📧 Support
-
-For issues or questions, please contact:
-- Email: support@bookhaven.com
-- Phone: +1 (555) 123-4567
-
+## 📜 License
+MIT License © 2025 Vaibhav
 ---
 
 **Built with ❤️ using pure HTML, CSS, and JavaScript**
